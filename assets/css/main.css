@@ -1,0 +1,23 @@
+.demo {
+  padding-top: 0;
+}
+
+.bulle {
+  width: 289px;
+  padding-top: 24px;
+  display: none;
+  position: absolute;
+  background: transparent url(../img/topBulle.png) no-repeat top;
+  overflow: hidden;
+  z-index: 500;
+}
+
+.bg {
+  background: transparent url(../img/fondBulle.png) repeat-y;
+  padding: 0 25px 20px 25px;
+}
+
+.basbulle {
+  background: transparent url(../img/bottomBulle.png) no-repeat bottom;
+  height: 52px;
+}

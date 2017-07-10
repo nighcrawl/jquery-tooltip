@@ -21,3 +21,10 @@
   background: transparent url(../img/bottomBulle.png) no-repeat bottom;
   height: 52px;
 }
+
+
+.tool-tip {
+  position: relative;
+  left: 2em;
+  top: 8.5em;
+}
